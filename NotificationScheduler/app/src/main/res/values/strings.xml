@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notification Scheduler</string>
+    <string name="rb_none_text">None</string>
+    <string name="rb_any_text">Any</string>
+    <string name="rb_wifi_text">Wifi</string>
+    <string name="schedule_job_text">Schedule Job</string>
+    <string name="cancel_job_text">Cancel Jobs</string>
+    <string name="deadline_text">Override Deadline:</string>
+    <string name="not_set_text">Not Set</string>
+</resources>

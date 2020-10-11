@@ -1,0 +1,4 @@
+#Fri Mar 06 10:44:14 CST 2020
+base.0=E\:\\Android\\Android Tutorial Apps\\PhoneNumberSpinner\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

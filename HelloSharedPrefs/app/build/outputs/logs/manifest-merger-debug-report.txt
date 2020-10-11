@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\df952969925e08d37031169e478b7896\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\378ce22efd3d68e636ca76cb90f1fdbe\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ff955e120d4b0240fc5ccf7c89913403\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\88131027d91b93154876d5b6871d61f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9e44e5d57d05a3bca1f519055eaaef74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9d75d61e2b8b7192e95f5ece94379bc9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\caa62a76ac5b4cac215ad5d67371ce90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0260f12969b79c7a30a4753d8b3b4e15\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\de96dc5c3f6277daeed6639fea48fc6a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cfc89ddfefbcb4501c325047ef8b1356\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9ae0bcbae0629d365f7f0fea8886be6a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\79f31e81848d052c266ecbef6d410180\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:16:11-57
+		INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:11-69
+application
+ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\378ce22efd3d68e636ca76cb90f1fdbe\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\378ce22efd3d68e636ca76cb90f1fdbe\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\df952969925e08d37031169e478b7896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\df952969925e08d37031169e478b7896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\378ce22efd3d68e636ca76cb90f1fdbe\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\378ce22efd3d68e636ca76cb90f1fdbe\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ff955e120d4b0240fc5ccf7c89913403\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ff955e120d4b0240fc5ccf7c89913403\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\88131027d91b93154876d5b6871d61f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\88131027d91b93154876d5b6871d61f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9e44e5d57d05a3bca1f519055eaaef74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9e44e5d57d05a3bca1f519055eaaef74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9d75d61e2b8b7192e95f5ece94379bc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9d75d61e2b8b7192e95f5ece94379bc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\caa62a76ac5b4cac215ad5d67371ce90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\caa62a76ac5b4cac215ad5d67371ce90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0260f12969b79c7a30a4753d8b3b4e15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0260f12969b79c7a30a4753d8b3b4e15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\de96dc5c3f6277daeed6639fea48fc6a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\de96dc5c3f6277daeed6639fea48fc6a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cfc89ddfefbcb4501c325047ef8b1356\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cfc89ddfefbcb4501c325047ef8b1356\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9ae0bcbae0629d365f7f0fea8886be6a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9ae0bcbae0629d365f7f0fea8886be6a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\79f31e81848d052c266ecbef6d410180\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\gabry\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\79f31e81848d052c266ecbef6d410180\AndroidManifest.xml:20:5-44
+INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Android Tutorial Apps\HelloSharedPrefs\app\src\main\AndroidManifest.xml

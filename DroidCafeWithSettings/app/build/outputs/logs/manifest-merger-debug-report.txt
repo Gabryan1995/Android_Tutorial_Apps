@@ -1,0 +1,213 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\f444f576ff1a9c4e55e67b33cf5a0262\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.1.0-alpha05] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\83c3aece0fb4fe9da746e19f20a30e39\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\5cd3c1a05347bdc7a820be71307fbf45\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\d08c6c9ab41bea2151d92ba7c25648e7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\ec4c0719e8edd2d6fdebb1ed80c7d504\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\93da833da3514d13ec6943308b15b8cf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\512cfb84d47d236f3009c0ac66112f2e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b3b55b9dc0462f88c971d44f32913571\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\7a718f159f26664103802a8cc9624420\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\c2e42b27cebf31731daca1001e91bf99\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\19fb761663e7d5feb4aa655b73c0b86b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\d76010a85f48b1a89f775f8395f15549\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b91bbc1c26dec23dd79bb6de488c010f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\53d9f1f56a6ee490d3e88331ba04e6fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\e0f3aed8a6ad939f592c185829b4c713\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\8e8cb323875e697468ce3b643715fa24\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b4519c45aba1434618991d321b1f4de4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\4274795faf6d063de777e2880044ba45\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\be5782ab812ae1e8ca369a3b285f91c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\3499b76d5ef9bd62e8a73c39914b85ed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha08] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\2bbbb253718eab3d5adcfe1a0d3e8c55\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\ee277ee6f0d7a91b456686f033f76859\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\033075dcb5469893235f69b402286f91\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\98765ddacfe1da61c0c0bb26e904cfed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\55517e33d0bfbe6b94e8961054c995f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b0fc034806298c1d6f7e2f2e3a713f6e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\c4c87ff53a22f3b67f027f8ebfc2a46d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\43fd313717b3d9bff64cfbc0a7dc91b1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\8ca40d069d58e562d45523d519c55f99\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\62d3b9701beec744e402471ef1fb01dc\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b2b1fadf174f88514eba79f7078db214\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\ec9e6100812b766c4449718e06e71ecc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\1ba6a8191ab8208a4978388d89179e0a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\f4a45ed7473efd8f321d35c932598566\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\d741c8fdda3653913b05c72e430cf812\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\4d285893ee1db0af01d7edf5876f75ca\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:4:5-56
+		INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:6:5-36:19
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\f444f576ff1a9c4e55e67b33cf5a0262\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\f444f576ff1a9c4e55e67b33cf5a0262\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\ec4c0719e8edd2d6fdebb1ed80c7d504\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\ec4c0719e8edd2d6fdebb1ed80c7d504\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\98765ddacfe1da61c0c0bb26e904cfed\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\98765ddacfe1da61c0c0bb26e904cfed\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\62d3b9701beec744e402471ef1fb01dc\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\62d3b9701beec744e402471ef1fb01dc\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\98765ddacfe1da61c0c0bb26e904cfed\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:13:9-48
+	android:roundIcon
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:12:9-40
+activity#me.mahakagg.droidcafewithsettingsandroidx.SettingsActivity
+ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:parentActivityName
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:17:13-55
+	android:label
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:16:13-60
+	android:name
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:15:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:18:13-20:90
+	android:value
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:20:17-87
+	android:name
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:19:17-63
+activity#me.mahakagg.droidcafewithsettingsandroidx.MainActivity
+ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:22:9-31:20
+	android:label
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:29:27-74
+activity#me.mahakagg.droidcafewithsettingsandroidx.OrderActivity
+ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:32:9-35:58
+	android:parentActivityName
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:35:13-55
+	android:label
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:34:13-57
+	android:name
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:33:13-42
+uses-sdk
+INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\f444f576ff1a9c4e55e67b33cf5a0262\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\f444f576ff1a9c4e55e67b33cf5a0262\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.0-alpha05] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\83c3aece0fb4fe9da746e19f20a30e39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.0-alpha05] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\83c3aece0fb4fe9da746e19f20a30e39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\5cd3c1a05347bdc7a820be71307fbf45\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\5cd3c1a05347bdc7a820be71307fbf45\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\d08c6c9ab41bea2151d92ba7c25648e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\d08c6c9ab41bea2151d92ba7c25648e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\ec4c0719e8edd2d6fdebb1ed80c7d504\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\ec4c0719e8edd2d6fdebb1ed80c7d504\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\93da833da3514d13ec6943308b15b8cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\93da833da3514d13ec6943308b15b8cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\512cfb84d47d236f3009c0ac66112f2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\512cfb84d47d236f3009c0ac66112f2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b3b55b9dc0462f88c971d44f32913571\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b3b55b9dc0462f88c971d44f32913571\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\7a718f159f26664103802a8cc9624420\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\7a718f159f26664103802a8cc9624420\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\c2e42b27cebf31731daca1001e91bf99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\c2e42b27cebf31731daca1001e91bf99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\19fb761663e7d5feb4aa655b73c0b86b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\19fb761663e7d5feb4aa655b73c0b86b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\d76010a85f48b1a89f775f8395f15549\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\d76010a85f48b1a89f775f8395f15549\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b91bbc1c26dec23dd79bb6de488c010f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b91bbc1c26dec23dd79bb6de488c010f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\53d9f1f56a6ee490d3e88331ba04e6fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\53d9f1f56a6ee490d3e88331ba04e6fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\e0f3aed8a6ad939f592c185829b4c713\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\e0f3aed8a6ad939f592c185829b4c713\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\8e8cb323875e697468ce3b643715fa24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\8e8cb323875e697468ce3b643715fa24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b4519c45aba1434618991d321b1f4de4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b4519c45aba1434618991d321b1f4de4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\4274795faf6d063de777e2880044ba45\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\4274795faf6d063de777e2880044ba45\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\be5782ab812ae1e8ca369a3b285f91c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\be5782ab812ae1e8ca369a3b285f91c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\3499b76d5ef9bd62e8a73c39914b85ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\3499b76d5ef9bd62e8a73c39914b85ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha08] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\2bbbb253718eab3d5adcfe1a0d3e8c55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha08] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\2bbbb253718eab3d5adcfe1a0d3e8c55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\ee277ee6f0d7a91b456686f033f76859\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\ee277ee6f0d7a91b456686f033f76859\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\033075dcb5469893235f69b402286f91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\033075dcb5469893235f69b402286f91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\98765ddacfe1da61c0c0bb26e904cfed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\98765ddacfe1da61c0c0bb26e904cfed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\55517e33d0bfbe6b94e8961054c995f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\55517e33d0bfbe6b94e8961054c995f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b0fc034806298c1d6f7e2f2e3a713f6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b0fc034806298c1d6f7e2f2e3a713f6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\c4c87ff53a22f3b67f027f8ebfc2a46d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\c4c87ff53a22f3b67f027f8ebfc2a46d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\43fd313717b3d9bff64cfbc0a7dc91b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\43fd313717b3d9bff64cfbc0a7dc91b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\8ca40d069d58e562d45523d519c55f99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\8ca40d069d58e562d45523d519c55f99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\62d3b9701beec744e402471ef1fb01dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\62d3b9701beec744e402471ef1fb01dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b2b1fadf174f88514eba79f7078db214\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\b2b1fadf174f88514eba79f7078db214\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\ec9e6100812b766c4449718e06e71ecc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\ec9e6100812b766c4449718e06e71ecc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\1ba6a8191ab8208a4978388d89179e0a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\1ba6a8191ab8208a4978388d89179e0a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\f4a45ed7473efd8f321d35c932598566\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\f4a45ed7473efd8f321d35c932598566\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\d741c8fdda3653913b05c72e430cf812\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\d741c8fdda3653913b05c72e430cf812\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\4d285893ee1db0af01d7edf5876f75ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\gabry\.gradle\caches\transforms-2\files-2.1\4d285893ee1db0af01d7edf5876f75ca\AndroidManifest.xml:20:5-44
+INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Android Tutorial Apps\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
